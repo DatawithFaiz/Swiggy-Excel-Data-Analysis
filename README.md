@@ -11,4 +11,3 @@ This project analyzes Swiggy food data using Microsoft Excel.
 ## Project Goal
 Analyze food prices, ratings, restaurant performance, and trends.
 
-3.
